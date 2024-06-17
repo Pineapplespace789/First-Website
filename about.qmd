@@ -1,5 +1,30 @@
 ---
 title: "About"
 ---
+## About Me
+My name is **SriRitvik Yellamilli**, and I go to *Metea Valley Highschool*.
 
-SriRitvik Yellamilli
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
